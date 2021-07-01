@@ -1,0 +1,21 @@
+{
+    "name": "raincode/aliyun_sms",
+    "description": "laravel aliyun sms",
+    "require": {
+        "php": "^7.3",
+        "laravel/framework": "8.0"
+    },
+    "authors": [
+        {
+            "name": "rain",
+            "email": "web_cto@qq.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Aix\\Sms\\AliyunSmsServiceProvider"
+            ]
+        }
+    }
+}
