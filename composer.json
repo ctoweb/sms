@@ -2,8 +2,7 @@
     "name": "raincode/aliyun_sms",
     "description": "laravel aliyun sms",
     "require": {
-        "php": "^7.3",
-        "laravel/framework": "8.0"
+        "php": "^7.3"
     },
     "authors": [
         {
