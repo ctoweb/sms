@@ -16,5 +16,10 @@
                 "Aix\\Sms\\AliyunSmsServiceProvider"
             ]
         }
+    },
+    "autoload": {
+        "psr-4": {
+            "Aix\\": "src/"
+        }
     }
 }
